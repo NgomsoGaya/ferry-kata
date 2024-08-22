@@ -1,0 +1,16 @@
+{
+  "name": "ferry-kata",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000f\u0000e\u0000r\u0000r\u0000y\u0000-\u0000k\u0000a\u0000t\u0000a\u0000\r\u0000 \u0000",
+  "main": "ferry.js",
+  "directories": {
+    "test": "test/ferrytest.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test/ferrytest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
